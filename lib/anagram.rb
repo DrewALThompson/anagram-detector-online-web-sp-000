@@ -1,4 +1,7 @@
 class Anagram
   
-  attr_accessor :words
+  attr_accessor :word
+  
+  def self.match
+    
 end 
